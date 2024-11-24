@@ -1,0 +1,172 @@
+{
+    "players": [
+        {
+            "day": 1,
+            "overallRating": 87,
+            "name": "Mike Maignan",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/215698.png?width=265",
+            "open": true
+        },
+        {
+            "day": 2,
+            "overallRating": 90,
+            "name": "Sam Kerr",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/227125.png?width=265",
+            "open": true
+        },
+        {
+            "day": 3,
+            "overallRating": 89,
+            "name": "Marc-Andr\u00e9 ter Stegen",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/192448.png?width=250",
+            "open": true
+        },
+        {
+            "day": 4,
+            "overallRating": 88,
+            "name": "Kadidiatou Diani",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/227361.png?width=265",
+            "open": true
+        },
+        {
+            "day": 5,
+            "overallRating": 87,
+            "name": "Frenkie de Jong",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/228702.png?width=265",
+            "open": true
+        },
+        {
+            "day": 6,
+            "overallRating": 86,
+            "name": "Karim Benzema",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/165153.png?width=265",
+            "open": true
+        },
+        {
+            "day": 7,
+            "overallRating": 85,
+            "name": "Khvicha Kvaratskhelia",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/247635.png?width=265",
+            "open": true
+        },
+        {
+            "day": 8,
+            "overallRating": 90,
+            "name": "Kevin De Bruyne",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/192985.png?width=265",
+            "open": true
+        },
+        {
+            "day": 9,
+            "overallRating": 86,
+            "name": "Manuel Neuer",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/167495.png?width=265",
+            "open": true
+        },
+        {
+            "day": 10,
+            "overallRating": 91,
+            "name": "Rodrigo Hern\u00e1ndez Cascante",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/231866.png?width=265",
+            "open": true
+        },
+        {
+            "day": 11,
+            "overallRating": 91,
+            "name": "Aitana Bonmat\u00ed Conca",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/241667.png?width=265",
+            "open": true
+        },
+        {
+            "day": 12,
+            "overallRating": 87,
+            "name": "Alexandra Popp",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/226302.png?width=265",
+            "open": true
+        },
+        {
+            "day": 13,
+            "overallRating": 90,
+            "name": "Vin\u00edcius Jos\u00e9 de Oliveira J\u00fanior",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/238794.png?width=265",
+            "open": true
+        },
+        {
+            "day": 14,
+            "overallRating": 88,
+            "name": "Antoine Griezmann",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/194765.png?width=265",
+            "open": true
+        },
+        {
+            "day": 15,
+            "overallRating": 88,
+            "name": "Lionel Messi",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/158023.png?width=265",
+            "open": true
+        },
+        {
+            "day": 16,
+            "overallRating": 87,
+            "name": "Bukayo Saka",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/246669.png?width=265",
+            "open": false
+        },
+        {
+            "day": 17,
+            "overallRating": 88,
+            "name": "Robert Lewandowski",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/188545.png?width=265",
+            "open": false
+        },
+        {
+            "day": 18,
+            "overallRating": 86,
+            "name": "C. Ronaldo dos Santos Aveiro",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/20801.png?width=265",
+            "open": false
+        },
+        {
+            "day": 19,
+            "overallRating": 89,
+            "name": "Sophia Smith",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/264012.png?width=265",
+            "open": false
+        },
+        {
+            "day": 20,
+            "overallRating": 87,
+            "name": "William Saliba",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/243715.png?width=265",
+            "open": false
+        },
+        {
+            "day": 21,
+            "overallRating": 86,
+            "name": "Lena Oberdorf",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/248717.png?width=265",
+            "open": false
+        },
+        {
+            "day": 22,
+            "overallRating": 89,
+            "name": "Alisson Ramses Becker",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/212831.png?width=265",
+            "open": false
+        },
+        {
+            "day": 23,
+            "overallRating": 90,
+            "name": "Jude Bellingham",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/252371.png?width=265",
+            "open": false
+        },
+        {
+            "day": 24,
+            "overallRating": 91,
+            "name": "Erling Haaland",
+            "shieldUrl": "https:\/\/ratings-images-prod.pulse.ea.com\/FC25\/full\/player-shields\/en\/239085.png?width=265",
+            "open": false
+        }
+    ]
+}

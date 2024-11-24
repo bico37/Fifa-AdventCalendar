@@ -1,0 +1,604 @@
+{
+    "players": [
+        {
+            "rank": 1,
+            "overallRating": 91,
+            "name": "Kylian Mbapp\u00c3\u00a9",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231747.png?width=265"
+        },
+        {
+            "rank": 2,
+            "overallRating": 91,
+            "name": "Rodrigo Hern\u00c3\u00a1ndez Cascante",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231866.png?width=265"
+        },
+        {
+            "rank": 3,
+            "overallRating": 91,
+            "name": "Aitana Bonmat\u00c3\u00ad Conca",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/241667.png?width=265"
+        },
+        {
+            "rank": 4,
+            "overallRating": 91,
+            "name": "Erling Haaland",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/239085.png?width=265"
+        },
+        {
+            "rank": 5,
+            "overallRating": 90,
+            "name": "Jude Bellingham",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/252371.png?width=265"
+        },
+        {
+            "rank": 6,
+            "overallRating": 90,
+            "name": "Alexia Putellas Segura",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227203.png?width=265"
+        },
+        {
+            "rank": 7,
+            "overallRating": 90,
+            "name": "Vin\u00c3\u00adcius Jos\u00c3\u00a9 de Oliveira J\u00c3\u00banior",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/238794.png?width=265"
+        },
+        {
+            "rank": 8,
+            "overallRating": 90,
+            "name": "Caroline Graham Hansen",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227102.png?width=265"
+        },
+        {
+            "rank": 9,
+            "overallRating": 90,
+            "name": "Kevin De Bruyne",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/192985.png?width=265"
+        },
+        {
+            "rank": 10,
+            "overallRating": 90,
+            "name": "Sam Kerr",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227125.png?width=265"
+        },
+        {
+            "rank": 11,
+            "overallRating": 90,
+            "name": "Harry Kane",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/202126.png?width=265"
+        },
+        {
+            "rank": 12,
+            "overallRating": 89,
+            "name": "Martin \u00c3\u02dcdegaard",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/222665.png?width=265"
+        },
+        {
+            "rank": 13,
+            "overallRating": 89,
+            "name": "Gianluigi Donnarumma",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/230621.png?width=265"
+        },
+        {
+            "rank": 14,
+            "overallRating": 89,
+            "name": "Sophia Smith",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/264012.png?width=265"
+        },
+        {
+            "rank": 15,
+            "overallRating": 89,
+            "name": "Alisson Ramses Becker",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/212831.png?width=265"
+        },
+        {
+            "rank": 16,
+            "overallRating": 89,
+            "name": "Thibaut Courtois",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/192119.png?width=265"
+        },
+        {
+            "rank": 17,
+            "overallRating": 89,
+            "name": "Ada Hegerberg",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227310.png?width=265"
+        },
+        {
+            "rank": 18,
+            "overallRating": 89,
+            "name": "Lautaro Mart\u00c3\u00adnez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231478.png?width=265"
+        },
+        {
+            "rank": 19,
+            "overallRating": 89,
+            "name": "Mar\u00c3\u00ada Pilar Le\u00c3\u00b3n Cebri\u00c3\u00a1n",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/236479.png?width=265"
+        },
+        {
+            "rank": 20,
+            "overallRating": 89,
+            "name": "Virgil van Dijk",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/203376.png?width=265"
+        },
+        {
+            "rank": 21,
+            "overallRating": 89,
+            "name": "Marc-Andr\u00c3\u00a9 ter Stegen",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/192448.png?width=250"
+        },
+        {
+            "rank": 22,
+            "overallRating": 89,
+            "name": "Mohamed Salah",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/209331.png?width=265"
+        },
+        {
+            "rank": 23,
+            "overallRating": 88,
+            "name": "Phil Foden",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/237692.png?width=265"
+        },
+        {
+            "rank": 24,
+            "overallRating": 88,
+            "name": "Marie Katoto",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/246272.png?width=265"
+        },
+        {
+            "rank": 25,
+            "overallRating": 88,
+            "name": "Lionel Messi",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/158023.png?width=265"
+        },
+        {
+            "rank": 26,
+            "overallRating": 88,
+            "name": "D\u00c3\u00a9bora C. de Oliveira",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/226893.png?width=265"
+        },
+        {
+            "rank": 27,
+            "overallRating": 88,
+            "name": "Kadidiatou Diani",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227361.png?width=265"
+        },
+        {
+            "rank": 28,
+            "overallRating": 88,
+            "name": "Antoine Griezmann",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/194765.png?width=265"
+        },
+        {
+            "rank": 29,
+            "overallRating": 88,
+            "name": "R\u00c3\u00baben Santos Gato Alves Dias",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/239818.png?width=265"
+        },
+        {
+            "rank": 30,
+            "overallRating": 88,
+            "name": "Robert Lewandowski",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/188545.png?width=265"
+        },
+        {
+            "rank": 31,
+            "overallRating": 88,
+            "name": "Patricia Guijarro Guti\u00c3\u00a9rrez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/237289.png?width=265"
+        },
+        {
+            "rank": 32,
+            "overallRating": 88,
+            "name": "Federico Valverde",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/239053.png?width=265"
+        },
+        {
+            "rank": 33,
+            "overallRating": 88,
+            "name": "Ederson Santana de Moraes",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/210257.png?width=265"
+        },
+        {
+            "rank": 34,
+            "overallRating": 88,
+            "name": "Bernardo Mota Carvalho e Silva",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/218667.png?width=265"
+        },
+        {
+            "rank": 35,
+            "overallRating": 88,
+            "name": "Beth Mead",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/245802.png?width=265"
+        },
+        {
+            "rank": 36,
+            "overallRating": 88,
+            "name": "Wendie Renard",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227316.png?width=265"
+        },
+        {
+            "rank": 37,
+            "overallRating": 88,
+            "name": "Guro Reiten",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227323.png?width=265"
+        },
+        {
+            "rank": 38,
+            "overallRating": 88,
+            "name": "Jan Oblak",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/200389.png?width=265"
+        },
+        {
+            "rank": 39,
+            "overallRating": 88,
+            "name": "Irene Paredes Hern\u00c3\u00a1ndez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227190.png?width=265"
+        },
+        {
+            "rank": 40,
+            "overallRating": 88,
+            "name": "Antonio R\u00c3\u00bcdiger",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/205452.png?width=265"
+        },
+        {
+            "rank": 41,
+            "overallRating": 88,
+            "name": "Christiane Endler",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/245956.png?width=250"
+        },
+        {
+            "rank": 42,
+            "overallRating": 88,
+            "name": "Florian Wirtz",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/256630.png?width=265"
+        },
+        {
+            "rank": 43,
+            "overallRating": 88,
+            "name": "Gregor Kobel",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/235073.png?width=265"
+        },
+        {
+            "rank": 44,
+            "overallRating": 87,
+            "name": "William Saliba",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/243715.png?width=265"
+        },
+        {
+            "rank": 45,
+            "overallRating": 87,
+            "name": "Victor Osimhen",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/232293.png?width=265"
+        },
+        {
+            "rank": 46,
+            "overallRating": 87,
+            "name": "Jamal Musiala",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/256790.png?width=265"
+        },
+        {
+            "rank": 47,
+            "overallRating": 87,
+            "name": "Bukayo Saka",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/246669.png?width=265"
+        },
+        {
+            "rank": 48,
+            "overallRating": 87,
+            "name": "Alexandra Popp",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/226302.png?width=265"
+        },
+        {
+            "rank": 49,
+            "overallRating": 87,
+            "name": "Paulo Dybala",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/211110.png?width=265"
+        },
+        {
+            "rank": 50,
+            "overallRating": 87,
+            "name": "Theo Hern\u00c3\u00a1ndez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/232656.png?width=265"
+        },
+        {
+            "rank": 51,
+            "overallRating": 87,
+            "name": "Sakina Karchaoui",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/233662.png?width=265"
+        },
+        {
+            "rank": 52,
+            "overallRating": 87,
+            "name": "Neymar da Silva Santos Jr.",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/190871.png?width=265"
+        },
+        {
+            "rank": 53,
+            "overallRating": 87,
+            "name": "Declan Rice",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/234378.png?width=265"
+        },
+        {
+            "rank": 54,
+            "overallRating": 87,
+            "name": "Mallory Swanson",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/232073.png?width=265"
+        },
+        {
+            "rank": 55,
+            "overallRating": 87,
+            "name": "Frenkie de Jong",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/228702.png?width=265"
+        },
+        {
+            "rank": 56,
+            "overallRating": 87,
+            "name": "Mike Maignan",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/215698.png?width=265"
+        },
+        {
+            "rank": 57,
+            "overallRating": 87,
+            "name": "Bruno Miguel Borges Fernandes",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/212198.png?width=265"
+        },
+        {
+            "rank": 58,
+            "overallRating": 87,
+            "name": "Rose Lavelle",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/232075.png?width=265"
+        },
+        {
+            "rank": 59,
+            "overallRating": 87,
+            "name": "Heung Min Son",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/200104.png?width=265"
+        },
+        {
+            "rank": 60,
+            "overallRating": 87,
+            "name": "Marcos Ao\u00c3\u00a1s Corr\u00c3\u00aaa",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/207865.png?width=265"
+        },
+        {
+            "rank": 61,
+            "overallRating": 87,
+            "name": "Alessandro Bastoni",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/237383.png?width=265"
+        },
+        {
+            "rank": 62,
+            "overallRating": 87,
+            "name": "\u00c4\u00b0lkay G\u00c3\u00bcndo\u00c4\u0178an",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/186942.png?width=265"
+        },
+        {
+            "rank": 63,
+            "overallRating": 87,
+            "name": "Ewa Pajor",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/241846.png?width=250"
+        },
+        {
+            "rank": 64,
+            "overallRating": 87,
+            "name": "Emiliano Mart\u00c3\u00adnez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/202811.png?width=265"
+        },
+        {
+            "rank": 65,
+            "overallRating": 87,
+            "name": "Nicol\u00c3\u00b2 Barella",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/224232.png?width=265"
+        },
+        {
+            "rank": 66,
+            "overallRating": 87,
+            "name": "Yann Sommer",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/177683.png?width=250"
+        },
+        {
+            "rank": 67,
+            "overallRating": 86,
+            "name": "C. Ronaldo dos Santos Aveiro",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/20801.png?width=265"
+        },
+        {
+            "rank": 68,
+            "overallRating": 86,
+            "name": "Gabriel dos S. Magalh\u00c3\u00a3es",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/232580.png?width=265"
+        },
+        {
+            "rank": 69,
+            "overallRating": 86,
+            "name": "Granit Xhaka",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/199503.png?width=265"
+        },
+        {
+            "rank": 70,
+            "overallRating": 86,
+            "name": "Khadija Shaw",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/246219.png?width=265"
+        },
+        {
+            "rank": 71,
+            "overallRating": 86,
+            "name": "Rodrygo Silva de Goes",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/243812.png?width=265"
+        },
+        {
+            "rank": 72,
+            "overallRating": 86,
+            "name": "Jo\u00c3\u00a3o Pedro Cavaco Cancelo",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/210514.png?width=265"
+        },
+        {
+            "rank": 73,
+            "overallRating": 86,
+            "name": "Rafael da Concei\u00c3\u00a7\u00c3\u00a3o Le\u00c3\u00a3o",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/241721.png?width=265"
+        },
+        {
+            "rank": 74,
+            "overallRating": 86,
+            "name": "Fridolina Rolf\u00c3\u00b6",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/227013.png?width=265"
+        },
+        {
+            "rank": 75,
+            "overallRating": 86,
+            "name": "Alejandro Grimaldo Garc\u00c3\u00ada",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/210035.png?width=265"
+        },
+        {
+            "rank": 76,
+            "overallRating": 86,
+            "name": "Luka Modri\u00c4\u2021",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/177003.png?width=265"
+        },
+        {
+            "rank": 77,
+            "overallRating": 86,
+            "name": "Selma Bacha",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/265674.png?width=265"
+        },
+        {
+            "rank": 78,
+            "overallRating": 86,
+            "name": "Alexis Mac Allister",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/239837.png?width=265"
+        },
+        {
+            "rank": 79,
+            "overallRating": 86,
+            "name": "Lauren Hemp",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/257008.png?width=265"
+        },
+        {
+            "rank": 80,
+            "overallRating": 86,
+            "name": "Daniel Carvajal Ramos",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/204963.png?width=265"
+        },
+        {
+            "rank": 81,
+            "overallRating": 86,
+            "name": "Mary Earps",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/247504.png?width=265"
+        },
+        {
+            "rank": 82,
+            "overallRating": 86,
+            "name": "Ousmane Demb\u00c3\u00a9l\u00c3\u00a9",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231443.png?width=265"
+        },
+        {
+            "rank": 83,
+            "overallRating": 86,
+            "name": "Lauren James",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/265249.png?width=265"
+        },
+        {
+            "rank": 84,
+            "overallRating": 86,
+            "name": "Lena Oberdorf",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/248717.png?width=265"
+        },
+        {
+            "rank": 85,
+            "overallRating": 86,
+            "name": "Trent Alexander-Arnold",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231281.png?width=265"
+        },
+        {
+            "rank": 86,
+            "overallRating": 86,
+            "name": "Pedro Gonz\u00c3\u00a1lez L\u00c3\u00b3pez",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/251854.png?width=265"
+        },
+        {
+            "rank": 87,
+            "overallRating": 86,
+            "name": "Grace Geyoro",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/237197.png?width=265"
+        },
+        {
+            "rank": 88,
+            "overallRating": 86,
+            "name": "Jonathan Tah",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/213331.png?width=265"
+        },
+        {
+            "rank": 89,
+            "overallRating": 86,
+            "name": "Karim Benzema",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/165153.png?width=265"
+        },
+        {
+            "rank": 90,
+            "overallRating": 86,
+            "name": "Gleison Bremer Silva Nascimento",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/239580.png?width=265"
+        },
+        {
+            "rank": 91,
+            "overallRating": 86,
+            "name": "Joshua Kimmich",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/212622.png?width=265"
+        },
+        {
+            "rank": 92,
+            "overallRating": 86,
+            "name": "Chloe Kelly",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/257001.png?width=265"
+        },
+        {
+            "rank": 93,
+            "overallRating": 86,
+            "name": "Unai Sim\u00c3\u00b3n Mendibil",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/230869.png?width=265"
+        },
+        {
+            "rank": 94,
+            "overallRating": 86,
+            "name": "Lindsey Horan",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/231432.png?width=265"
+        },
+        {
+            "rank": 95,
+            "overallRating": 86,
+            "name": "Lea Sch\u00c3\u00bcller",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/244302.png?width=265"
+        },
+        {
+            "rank": 96,
+            "overallRating": 86,
+            "name": "Manuel Neuer",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/167495.png?width=265"
+        },
+        {
+            "rank": 97,
+            "overallRating": 86,
+            "name": "Jill Roord",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/240714.png?width=265"
+        },
+        {
+            "rank": 98,
+            "overallRating": 86,
+            "name": "Kim Little",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/245872.png?width=265"
+        },
+        {
+            "rank": 99,
+            "overallRating": 86,
+            "name": "Hakan \u00c3\u2021alhano\u00c4\u0178lu",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/208128.png?width=265"
+        },
+        {
+            "rank": 100,
+            "overallRating": 85,
+            "name": "Khvicha Kvaratskhelia",
+            "shieldUrl": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-shields/en/247635.png?width=265"
+        }
+    ]
+}
